@@ -1,5 +1,12 @@
 # agent-token-budget
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-token-budget/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-token-budget/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-token-budget)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-token-budget)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-token-budget)
+
 ## Detailed Description
 
 agent-token-budget is maintained as an industry-grade software project with production-ready engineering practices.  
